@@ -1,0 +1,5 @@
+my_node:
+  ros__parameters:
+    greeting: "Hello"
+    name: "BUDING DUODUO"
+    ExposureTime: 12345
